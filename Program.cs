@@ -36,7 +36,7 @@ while(isconverted){
         Console.WriteLine("");
         Console.WriteLine("---------");
         Console.WriteLine("Do you want to play again?");
-        Console.WriteLine("Press enter to restart || Type \"no\" to exit! :)");
+        Console.WriteLine("Enter anything to restart || Type \"no\" to exit! :)");
         fullstop = fullstop.ToUpper();
         fullstop = Console.ReadLine();
     }
